@@ -1,0 +1,8 @@
+mypy
+black
+tqdm
+shortuuid
+tensorflow==2.10
+tensorflow-probability
+pandas
+-e .
